@@ -11,7 +11,7 @@ header{
 }
 
 .cabecalho{
-    background-color:#2D98AB;
+    background-color:#DFCBAB;
     color:black;
     display:flex;
     justify-content:space-around;
@@ -47,7 +47,7 @@ header{
 }
 
 .rodape{
-    background-color: #2D98AB;
+    background-color: #DFCBAB;
     color: rgb(0, 0, 0);
     display: flex; 
     justify-content: space-around;
